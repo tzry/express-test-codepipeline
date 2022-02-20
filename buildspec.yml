@@ -2,8 +2,6 @@ version: 0.2
 
 env:
   shell: shell-tag
-  variables:
-    SHOULD_FAIL: yes
 
 phases:
   install:
